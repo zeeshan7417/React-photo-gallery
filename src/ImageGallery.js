@@ -27,6 +27,7 @@ export const ImageGallery = ({images}) => {
 
       {
           
+          
           images && images.map((item)=>{
                
 
